@@ -19,3 +19,8 @@ Criando um array de um tipo específico com base em outro array:
 mfloat = mtiny,astype(np.int32)
 ```
 
+Criando um array de valores vazios:
+
+```
+vazio = np.empyt([2, 5], np.int32)
+```
